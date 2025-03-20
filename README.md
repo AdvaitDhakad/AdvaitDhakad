@@ -6,10 +6,10 @@ A passionate MCA student with a knack for crafting digital solutions that simpli
 ## Skills
 
 *   **Languages:** Python, Java
-*   **Web Development:** HTML, CSS, JavaScript
+*   **Web Development:** NextJS/ReactJs and Web Frameworks like Django, Flask
 *   **Automation:** Selenium (Python)
 *   **Data Extraction:** Web Scraping
-*   **Machine Learning (ML) & Natural Language Processing (NLP)**
+*   **Machine Learning (ML) & Natural Language Processing (NLP) alongside Deep Learning**
 *   **Finance & Data Analysis**
 
 ## Interests
